@@ -1,7 +1,19 @@
 ![Header](https://github.com/12345ARK/12345ARK/blob/main/github-header-banner.png)
+</br>
 
-<h3 align="center">A passionate Software Student from India.</h3>
+<h2 align="center"> 👨‍💻 About Me </h2>
 
+I'm a Computer Science Engineering student and aspiring software developer passionate about building practical, user-friendly, and scalable applications.
+
+I enjoy working across frontend development, backend development, programming, databases, and problem solving.
+
+🎓 Computer Science Engineering Student
+💻 Software & Web Development
+🌐 Frontend + Backend Development
+🧠 Data Structures & Problem Solving
+🚀 Building Real-World Projects
+📚 Continuous Learner
+</br>
 <img align="right" alt="coading" width="400" src="https://camo.githubusercontent.com/884a213c0c6b6d94db3d3923607eda9f00fe28db86a03f5acb4c0ed83dfe4d95/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382c7175616c6974792d3130302f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067">
 
 - 🌱 I’m currently persuing **Diploma**
@@ -9,12 +21,92 @@
 - 📫 How to reach me **aryankumarsfhh@gmail.com**
 
 - ⚡ Fun fact **I am funny with hardworking**
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aryan-kumar-439517371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-kumar-439517371" height="30" width="40" /></a>
 </p>
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</br>
+
+
+# 📈 `DEVELOPMENT FOCUS`
+
+<div align="center">
+
+| Technology    | Focus                         |
+| :------------ | :---------------------------- |
+| 🟨 JavaScript | Advanced Web Development      |
+| 🐍 Python     | Backend & Automation          |
+| 🌐 HTML/CSS   | Modern UI Development         |
+| ☕ Java        | OOP & Application Development |
+| 🗄️ MySQL     | Database Management           |
+| 🧠 DSA        | Problem Solving               |
+| 🐍 Django     | Full-Stack Development        |
+
+</div>
+
+---
+
+# 🎯 `CURRENT GOALS`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  [✓] Learn modern web development                          │
+│  [✓] Build interactive web applications                    │
+│  [→] Improve Data Structures & Algorithms                   │
+│  [→] Build full-stack applications                          │
+│  [→] Contribute to open-source                             │
+│  [→] Improve software architecture                          │
+│  [→] Build production-ready projects                       │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🧠 `MY DEVELOPMENT PRINCIPLES`
+
+<div align="center">
+
+### `01` — Keep It Simple
+
+Build solutions that are easy to understand and maintain.
+
+### `02` — Learn By Building
+
+Projects turn concepts into practical skills.
+
+### `03` — Write Better Code
+
+Readable, reusable and maintainable code matters.
+
+### `04` — Keep Improving
+
+Every project is an opportunity to learn something new.
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for visiting my GitHub profile! 👋
+
+### `BUILD • LEARN • CREATE • IMPROVE`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Coding+%E2%9A%A1"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,50:1e3a8a,100:0f172a&animation=fadeIn"/>
+
+</div>
 
